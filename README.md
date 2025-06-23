@@ -4,6 +4,13 @@ I'm **Sriramkumar Raja Natarajan** a **Full Stack Developer** based in Heidelber
 
 ---
 
+### 🎯 Currently Seeking
+
+🚀 **Open to Internship or Working Student opportunities in Frontend Development**  
+💡 Passionate about creating clean, responsive, and user-centric web applications using modern frontend technologies like **React.js** and **Vue.js**.
+
+---
+
 ### 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
